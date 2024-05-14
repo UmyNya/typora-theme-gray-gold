@@ -12,11 +12,14 @@ The existing Typora dark themes felt too dark, and I wanted to use a dark theme 
 
 ## Table of Contents
 
-- [Security](#security)
+
 - [Background](#background)
+- [Features](#features)
+- [Preview](#preview)
 - [Install](#install)
 - [Usage](#usage)
-- [API](#api)
+- [Custom](#custom)
+- [TODO](#todo)
 - [Contributing](#contributing)
 - [License](#license)
 
