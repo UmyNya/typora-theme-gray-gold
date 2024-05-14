@@ -65,6 +65,7 @@ Note: You may need to manually go to this repository to obtain and update the la
 - [ ] Adjust the style of source code mode
 - [ ] Adjust the style of code blocks.(Maybe Ref: [对程序员友好的 Typora 主题](https://github.com/lb-fes/typora-theme))
 - [ ] Refactor my garbage code ；；
+- [ ] Commit to [Typora Themes](https://theme.typora.io/)
 
 ## Contributing
 
