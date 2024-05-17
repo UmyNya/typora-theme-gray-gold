@@ -2,38 +2,111 @@
 
 ![banner]()
 
-![badge]() ![badge]() [![license](https://camo.githubusercontent.com/4738d430387c93da0d49ef0428a7c7ddae18e81eaff99a014996d4f6b30fd3ef/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f3a757365722f3a7265706f2e737667)](https://github.com/RichardLitt/standard-readme/blob/master/example-readmes/LICENSE) [![standard-readme compliant](https://camo.githubusercontent.com/f116695412df39ab3c98d8291befdb93af123f56aecc79fff4b20c410a5b54c7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f726561646d652532307374796c652d7374616e646172642d627269676874677265656e2e7376673f7374796c653d666c61742d737175617265)](https://github.com/RichardLitt/standard-readme)
 
-Typora dark theme, but gray gold. 
+
+[![license](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)  [![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)  
+
+**English** | [简体中文]()
+
+**Typora dark theme, but gray gold.** 
 
 The existing Typora dark themes felt too dark, and I wanted to use a dark theme in a relatively light space. Therefore, I wrote a relatively bright dark theme with reference to the following styles:
-- Mainly Ref：[Blackout theme of typora](https://github.com/obscurefreeman/typora_theme_blackout?tab=readme-ov-file)
+- Mainly Refer: [Blackout theme of typora](https://github.com/obscurefreeman/typora_theme_blackout?tab=readme-ov-file)
 - [A purple theme for Typora](https://github.com/hliu202/typora-purple-theme/tree/master)
+
+
 
 ## Table of Contents
 
 
-- [Background](#background)
-- [Features](#features)
-- [Preview](#preview)
-- [Install](#install)
-- [Usage](#usage)
-- [Custom](#custom)
-- [TODO](#todo)
-- [Contributing](#contributing)
-- [License](#license)
+- [typora-theme-gray-gold](#typora-theme-gray-gold)
+  - [Table of Contents](#table-of-contents)
+  - [Background](#background)
+  - [Features](#features)
+  - [Preview](#preview)
+    - [Overview](#overview)
+    - [Title](#title)
+    - [Text](#text)
+    - [List](#list)
+    - [Table](#table)
+    - [Block](#block)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Custom](#custom)
+    - [base.css](#basecss)
+    - [base.control.css](#basecontrolcss)
+    - [My Variables](#my-variables)
+  - [TODO](#todo)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Background
 
-### Any optional sections
+现有的黑暗模式样式主要有以下至少一个特征
+
+- **背景太黑**
+
+  不适于在相对明亮的地方使用。在正常室内光线强度下，过黑也会导致屏幕和环境的对比度和亮度差距过大，这会导致视觉疲劳。
+
+  至于为什么要在明亮的地方使用黑暗模式，这是因为黑暗模式可以减少屏幕整体亮度，能够在不影响使用的前提下保护眼睛。
+
+- **配色对比度太强**
+
+  这会导致眼睛更容易疲劳，比如高饱和度的亮色配合深黑色。
+
+- **颜色过于单调，样式比较朴素**
+
+  这只是我个人的口味。
+
+为了解决上述问题，我设计了一个相对明亮的黑暗模式配色，在保证视觉舒适的前提下加入了更丰富但简洁的样式设计。
 
 ## Features
 
+- 相对浅色的黑暗主题，可以在室内相对明亮的地方使用
+- 视觉友好的配色，拒绝高对比度的视觉刺激
+- 相对丰富但简洁的样式设计
+
 ## Preview
 
-~~maybe add a Home Page link here?~~
+~~maybe add a Home Page link as a example here?~~
 
-### Any optional sections
+### Overview
+
+- 侧边栏
+
+### Title
+
+- 各级标题
+
+### Text
+
+- 正文
+- 加粗
+- 斜体
+- 高亮
+- 删除线
+- 链接
+- 段落
+
+### List
+
+- 多级有序列表
+- 多级无序列表
+- checkbox 列表
+
+### Table
+
+
+
+### Block
+
+- 引用块
+- 行内代码块
+- 代码块
+- 行内公式
+- 公式块
+
+
 
 ## Install
 
@@ -52,6 +125,8 @@ Reference:
 Note: You may need to manually go to this repository to obtain and update the latest styles (maybe I will release a more complete version in the future), so you may need to track the progress of this project. 
 
 ## Custom
+
+TODO
 
 ### base.css
 
