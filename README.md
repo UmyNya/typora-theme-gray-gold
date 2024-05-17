@@ -1,4 +1,4 @@
-# typora-theme-gray-gold
+# Typora Theme: Gray Gold
 
 ![banner]()
 
@@ -142,16 +142,28 @@ TODO
 - [ ] Refactor my garbage code ；；
 - [ ] Commit to [Typora Themes](https://theme.typora.io/)
 
+## Maintainers
+
+[@UmyNya#ΦωΦ](https://github.com/UmyNya)
+
 ## Contributing
 
-~~See [the contributing file](CONTRIBUTING.md)!~~
 
-PRs accepted.
+
+Feel free to dive in! [Open an issue](https://github.com/UmyNya/typora-theme-gray-gold/issues/new) or submit PRs.
+
+Typora Theme: Gray Gold follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
 Small note: 
 - If commit, please conform to the [Git Commit 规范](https://github.com/o-w-o/way/blob/master/appendixs/wiki/git-commit.md) specification.
 - If editing the Readme, please conform to the [standard-readme](https://github.com/RichardLitt/standard-readme) specification.
 
+### Contributors
+
+This project exists thanks to all the people who contribute.
+
+~~See [the contributing file](CONTRIBUTING.md)!~~
+
 ## License
 
-[MIT License](./LICENSE)
+[MIT License](./LICENSE) © UmyNya#ΦωΦ
