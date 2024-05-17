@@ -19,7 +19,7 @@ The existing Typora dark themes felt too dark, and I wanted to use a dark theme 
 ## Table of Contents
 
 
-- [typora-theme-gray-gold](#typora-theme-gray-gold)
+- [Typora Theme: Gray Gold](#typora-theme-gray-gold)
   - [Table of Contents](#table-of-contents)
   - [Background](#background)
   - [Features](#features)
@@ -37,7 +37,9 @@ The existing Typora dark themes felt too dark, and I wanted to use a dark theme 
     - [base.control.css](#basecontrolcss)
     - [My Variables](#my-variables)
   - [TODO](#todo)
+  - [Maintainers](#maintainers)
   - [Contributing](#contributing)
+    - [Contributors](#contributors)
   - [License](#license)
 
 ## Background
@@ -125,8 +127,6 @@ Reference:
 Note: You may need to manually go to this repository to obtain and update the latest styles (maybe I will release a more complete version in the future), so you may need to track the progress of this project. 
 
 ## Custom
-
-TODO
 
 ### base.css
 
