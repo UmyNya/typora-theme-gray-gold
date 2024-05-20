@@ -174,7 +174,7 @@ Reference:
 
 > Summary
 > 1. Open Theme Folder from Preference Panel → Appearance section.
-> 2. Copy css and related resources, like fonts or images, into the newly opened folder.
+> 2. Copy css and related resources（the `gray_gold.css` and the `gray_gold` folder), like fonts or images, into the newly opened folder.
 > 3. Restart typora, then select it from Themes menu.
 
 ## Usage
