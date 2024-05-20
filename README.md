@@ -14,7 +14,6 @@ The existing Typora dark themes felt too dark, and I wanted to use a dark theme 
 - Mainly Refer: [Blackout theme of typora](https://github.com/obscurefreeman/typora_theme_blackout?tab=readme-ov-file)
 - [A purple theme for Typora](https://github.com/hliu202/typora-purple-theme/tree/master)
 
-
 ## Table of Contents
 
 - [Typora Theme: Gray Gold](#typora-theme-gray-gold)
